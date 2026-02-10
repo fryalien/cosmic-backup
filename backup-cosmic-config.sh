@@ -1,10 +1,10 @@
 #!/bin/bash
 set -e
 
-DEST="$HOME/Public/cosmic-backup"
+DEST="$HOME/Documents/cosmic-backup"
 mkdir -p "$DEST"
 
-cp -r ~/.config/cosmic "$DEST"
+cp -r ~/.config/cosmic ~/.local/share/icons"$DEST"
 dconf dump / > "$DEST/dconf-full-backup.ini"
 cp -r ~/.themes ~/.icons ~/.fonts "$DEST" 2>/dev/null
 
