@@ -1,9 +1,11 @@
 #!/bin/bash
+set-e
 
-cp -r ~/Public/cosmic-backup/cosmic ~/.config/
+cp -rv ~/Documents/cosmic-backup/cosmic ~/.config/
 
-dconf load / < ~/Public/cosmic-backup/dconf-full-backup.ini
+dconf load / < ~/Documents/cosmic-backup/dconf-full-backup.ini
 
+echo "All done."
 
 # Reset cosmic
 #rm -rf ~/.config/cosmic ~/.local/share/cosmic
