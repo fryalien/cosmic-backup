@@ -1,0 +1,14 @@
+[
+    Home,
+    Documents,
+    Downloads,
+    Music,
+    Pictures,
+    Videos,
+    Path("/home/y/Public"),
+    Path("/home/y/BIGDATA/minis-cachy-cosmic"),
+    Path("/home/y/BIGDATA/DOWNLOADS"),
+    Path("/home/y/BIGDATA/GITHUB"),
+    Path("/home/y/BIGDATA/MEGA"),
+    Path("/home/y/BIGDATA/RECORDINGS"),
+]

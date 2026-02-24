@@ -1,0 +1,12 @@
+[
+    (
+        expression: "35+3215",
+        outcome: "3250\n",
+        decimal_comma: true,
+    ),
+    (
+        expression: "5365+546",
+        outcome: "5911\n",
+        decimal_comma: true,
+    ),
+]

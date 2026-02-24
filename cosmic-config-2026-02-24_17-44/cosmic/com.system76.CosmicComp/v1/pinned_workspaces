@@ -1,0 +1,62 @@
+[
+    (
+        output: (
+            name: "HDMI-A-1",
+            edid: Some((
+                manufacturer: ('A', 'C', 'I'),
+                product: 10145,
+                serial: Some(16843009),
+                manufacture_week: 39,
+                manufacture_year: 2012,
+                model_year: None,
+            )),
+        ),
+        tiling_enabled: false,
+        id: Some("1258706"),
+    ),
+    (
+        output: (
+            name: "HDMI-A-1",
+            edid: Some((
+                manufacturer: ('A', 'C', 'I'),
+                product: 10145,
+                serial: Some(16843009),
+                manufacture_week: 39,
+                manufacture_year: 2012,
+                model_year: None,
+            )),
+        ),
+        tiling_enabled: false,
+        id: Some("19a6285"),
+    ),
+    (
+        output: (
+            name: "HDMI-A-1",
+            edid: Some((
+                manufacturer: ('A', 'C', 'I'),
+                product: 10145,
+                serial: Some(16843009),
+                manufacture_week: 39,
+                manufacture_year: 2012,
+                model_year: None,
+            )),
+        ),
+        tiling_enabled: false,
+        id: Some("1cf8bb1"),
+    ),
+    (
+        output: (
+            name: "HDMI-A-1",
+            edid: Some((
+                manufacturer: ('A', 'C', 'I'),
+                product: 10145,
+                serial: Some(16843009),
+                manufacture_week: 39,
+                manufacture_year: 2012,
+                model_year: None,
+            )),
+        ),
+        tiling_enabled: false,
+        id: Some("1e05faa"),
+    ),
+]

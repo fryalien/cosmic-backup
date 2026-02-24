@@ -1,0 +1,10 @@
+(
+    save_location: Documents,
+    choice: Output(Some("HDMI-A-1")),
+    last_rectangle: Some((
+        left: 54,
+        top: 36,
+        right: 1910,
+        bottom: 1028,
+    )),
+)
