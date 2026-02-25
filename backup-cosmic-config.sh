@@ -1,7 +1,7 @@
 #!/bin/bash
 set -e
 
-DEST="$HOME/Documents/cosmic-config-$(date +%Y-%m-%d_%H:%M)"
+DEST="$HOME/Documents/cosmic-config-$(date +%Y-%m-%d_%H-%M)"
 mkdir -pv "$DEST"
 
 cp -rv ~/.config/cosmic ~/.local/share/icons "$DEST"
